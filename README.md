@@ -10,4 +10,4 @@ Welcome to my repository featuring a collection of HTML and CSS projects.
 ### Project 3: Bookstore Website
 **Description**: Made a booktore one page website with videos and css.
 
-It can be found in the One page website Repository.
+It can be found in the "One page website" Repository.
